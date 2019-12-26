@@ -1,4 +1,4 @@
-package P2_meta_programming_demo
+package P02_meta_programming_demo
 
 class Person {
     String name
